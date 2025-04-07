@@ -1,5 +1,3 @@
-# Snake---Game---0
-
 # Snake Game
 
 ## Overview
